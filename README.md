@@ -1,6 +1,8 @@
-# HoBin
+# 42-HoBin ($HOME/bin manager)
 
 Uno script personale per facilitare la gestione di software aggiuntive in `$HOME/bin` sui computer della 42.
+
+![hobin](https://github.com/user-attachments/assets/09507bb6-f76b-4114-a762-4bf7d06b0c19)
 
 ## Installazione
 
@@ -14,4 +16,4 @@ curl -fsSL https://raw.githubusercontent.com/julioformiga/hobin/main/hobin.sh -o
 - [ ] Self Update
 - [ ] Gestire la lista di software
 - [ ] Gestire meglio gli errori quando prende la versione
-- [ ] Install meno brutto :)
+- [ ] Un install meno brutto :)
